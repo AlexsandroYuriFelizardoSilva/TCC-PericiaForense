@@ -1,4 +1,5 @@
-# Reverse Logistics of Electronic Equipment in Brazil
+# Forensic Expertise in Digital Electronic Systems: Technologies for recovering digital data regarding practices, legal aspects and challenges in Brazilian police investigations
+
 The results of this research point to the need for greater sharing of knowledge and resources in the area of digital forensics in Brazil. In this sense, the creation of a repository on GitHub could serve as a collaborative platform for the dissemination of technologies, techniques and tools used in the recovery of digital data alluding to criminal practices. This repository could host software code, scripts, documentation, methodologies and case studies, contributing to the advancement and standardization of digital forensic practices in the country, and potentially aligning with the recommendation to create a National Database of Digital Forensics.
 
 ## Perícia Forense Digital
