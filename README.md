@@ -27,9 +27,9 @@ If you have any questions or suggestions, feel free to reach out or open an issu
 
 # PT-BR:
 
-# Logística Reversa de Equipamentos Eletrônicos no Brasil
+# Perícia Forense em Sistemas Eletrônicos Digitais: Tecnologias para recuperação de dados digitais alusivos a práticas, aspectos jurídicos e desafios nos inquéritos policiais brasileiros
 
-Este repositório tem como objetivo central realizar uma averiguação detalhada do cumprimento da Logística Reversa da Política Nacional dos Resíduos Sólidos no que diz respeito aos aparelhos eletrônicos. Nosso foco é classificar as cidades brasileiras em relação ao descarte de sucata eletrônica, com a intenção de garantir que fabricantes, importadores, distribuidores e comerciantes estejam cumprindo as diretrizes estabelecidas.
+Os resultados desta pesquisa apontam para a necessidade de um maior compartilhamento de conhecimento e recursos na área de perícia forense digital no Brasil. Nesse sentido, a criação de um repositório no GitHub pode servir como uma plataforma colaborativa para a disseminação de tecnologias, técnicas e ferramentas utilizadas na recuperação de dados digitais alusivos a práticas criminais. Este repositório poderia hospedar códigos de software, scripts, documentação, metodologias e estudos de caso, contribuindo para o avanço e a padronização das práticas forenses digitais no país, e potencialmente se alinhar com a recomendação de criação de um Banco de Dados Nacional de Perícias Forenses Digitais
 
 ## SMC - Sistema de Monitoramento da Cumprimento
 O Sistema de Monitoramento de Cumprimento (SMC)  avalia o cumprimento da Logística Reversa dos equipamentos eletrônicos, conforme estabelecido pela Política Nacional de Resíduos Sólidos. Este sistema visa fornecer uma classificação objetiva das cidades brasileiras em relação ao descarte adequado de sucata eletrônica.
