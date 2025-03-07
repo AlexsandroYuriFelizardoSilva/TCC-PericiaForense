@@ -37,20 +37,20 @@ A perícia forense digital é uma área especializada que se dedica à identific
 O objetivo geral deste trabalho é analisar a aplicação das tecnologias eletrônicas nos inquéritos policiais brasileiros, com foco na perícia forense digital e na recuperação de dados. A pesquisa visa mapear e avaliar as ferramentas tecnológicas, tanto de software quanto de hardware, atualmente utilizadas na prática forense para a investigação de crimes, através de um levantamento de dados nos portais de transparência dos estados brasileiros. Além disso, o estudo busca examinar a efetividade das técnicas e ferramentas utilizadas na recuperação de dados digitais, essenciais para a obtenção de provas que indiquem a autoria e a materialidade dos crimes. Por fim, o trabalho se propõe a produzir material que ofereça uma visão abrangente sobre o panorama da perícia forense digital no Brasil, destacando as lacunas e desafios enfrentados pelos profissionais da área, com o objetivo de fornecer recomendações para a melhoria das práticas forenses, visando aprimorar a precisão e a eficácia das investigações criminais e, consequentemente, fortalecer a aplicação da justiça.
 Os objetivos específicos deste trabalho são:
 
-### Analisar os diversos tipos de ferramentas tecnológicas, tanto de software quanto de hardware, utilizadas na perícia forense digital nos diferentes Estados brasileiros, visando mapear e compreender as ferramentas disponíveis e em uso, bem como suas aplicações específicas no processo de recuperação de dados digitais.
+* Analisar os diversos tipos de ferramentas tecnológicas, tanto de software quanto de hardware, utilizadas na perícia forense digital nos diferentes Estados brasileiros, visando mapear e compreender as ferramentas disponíveis e em uso, bem como suas aplicações específicas no processo de recuperação de dados digitais.
 
-### Identificar as práticas e técnicas empregadas pelos órgãos de perícia forense para a recuperação de dados digitais, com ênfase na efetividade e na conformidade com os padrões legais, detalhando os métodos usados na prática forense e avaliando se estão alinhados com as exigências jurídicas e técnicas para a obtenção de provas confiáveis.
+* Identificar as práticas e técnicas empregadas pelos órgãos de perícia forense para a recuperação de dados digitais, com ênfase na efetividade e na conformidade com os padrões legais, detalhando os métodos usados na prática forense e avaliando se estão alinhados com as exigências jurídicas e técnicas para a obtenção de provas confiáveis.
 
-### Verificar a possibilidade do aprimoramento das técnicas e ferramentas atuais com base nas lacunas e desafios identificados na prática pericial, analisando as deficiências nas ferramentas e métodos atuais e explorando oportunidades para melhorar as práticas existentes na perícia forense digital.
+* Verificar a possibilidade do aprimoramento das técnicas e ferramentas atuais com base nas lacunas e desafios identificados na prática pericial, analisando as deficiências nas ferramentas e métodos atuais e explorando oportunidades para melhorar as práticas existentes na perícia forense digital.
 
-### Comparar a utilização de tecnologias forenses entre os diferentes Estados brasileiros, a fim de identificar variações regionais e práticas recomendáveis, buscando entender como a aplicação de tecnologias e técnicas varia entre os Estados e quais práticas são consideradas mais eficazes e recomendáveis.
+* Comparar a utilização de tecnologias forenses entre os diferentes Estados brasileiros, a fim de identificar variações regionais e práticas recomendáveis, buscando entender como a aplicação de tecnologias e técnicas varia entre os Estados e quais práticas são consideradas mais eficazes e recomendáveis.
 
-### Avaliar a efetividade das ferramentas e técnicas de recuperação de dados digitais na produção de provas que indiquem a autoria e a materialidade dos crimes, medindo o impacto das tecnologias forenses na obtenção de evidências que possam ser utilizadas nos processos judiciais e como elas contribuem para a solução de casos criminais.
+* Avaliar a efetividade das ferramentas e técnicas de recuperação de dados digitais na produção de provas que indiquem a autoria e a materialidade dos crimes, medindo o impacto das tecnologias forenses na obtenção de evidências que possam ser utilizadas nos processos judiciais e como elas contribuem para a solução de casos criminais.
 
-### Recolher dados e feedback dos profissionais envolvidos na perícia forense digital sobre as principais dificuldades e necessidades enfrentadas na prática, visando obter insights diretos dos peritos sobre os desafios cotidianos e as necessidades para a melhoria das ferramentas e técnicas usadas.
+* Recolher dados e feedback dos profissionais envolvidos na perícia forense digital sobre as principais dificuldades e necessidades enfrentadas na prática, visando obter insights diretos dos peritos sobre os desafios cotidianos e as necessidades para a melhoria das ferramentas e técnicas usadas.
 
 ## Planilhas de Respostas
-Aqui estão os links para as planilhas que contêm as respostas das empresas que foram arguidas durante o processo de averiguação:
+Aqui estão os links para as planilhas que contêm as respostas dos estados que foram arguidos durante o processo de averiguação:
 
 - [Distribuidores](https://docs.google.com/spreadsheets/d/1_9GmCSYIBlck2VQbjIxxf8prKJAj0nqn-ThlUpODLY8/edit?usp=sharing)
 - [Comerciantes](https://docs.google.com/spreadsheets/d/1lbnEPV4-CQUuy-w_ME88JsqlxdQ0zQIFKJ0vZbqvwBc/edit?usp=sharing)
@@ -59,6 +59,6 @@ Aqui estão os links para as planilhas que contêm as respostas das empresas que
 - [Importadores](https://docs.google.com/spreadsheets/d/1oArWTerRD6X_yAsCa8hhU5MkjUOS9xlYH-4vXyCD3d4/edit?usp=sharing)
 - [Prefeituras](https://docs.google.com/spreadsheets/d/1sXTpzL3KLTz9Gb6e0EbgGxZzHhX-D6snA1lIYJKaA8k/edit?usp=sharing)
 
-As planilhas fornecem uma visão detalhada das respostas recebidas, permitindo uma análise mais aprofundada do cumprimento ou não cumprimento das diretrizes da Logística Reversa.
+As planilhas fornecem uma visão detalhada das respostas recebidas, permitindo uma análise mais aprofundada do panorama brasileiro quanto à utilização de ferramentas de software ou hardware para recuperação de dados digitais objetivando a produção de índicios suficientes de autoria e materialidade.
 
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato ou abrir uma issue neste repositório. Agradecemos pelo seu interesse na promoção da sustentabilidade e conformidade ambiental no descarte de equipamentos eletrônicos.
