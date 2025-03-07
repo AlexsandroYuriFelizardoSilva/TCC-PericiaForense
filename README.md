@@ -24,12 +24,7 @@ The specific objectives of this work are:
 ## Response Spreadsheets
 Here are the links to the spreadsheets containing the responses of the states that were questioned during the process of investigating forensic practices in the Brazilian states:
 
-- [Distributors](https://docs.google.com/spreadsheets/d/1_9GmCSYIBlck2VQbjIxxf8prKJAj0nqn-ThlUpODLY8/edit?usp=sharing)
-- [Merchants](https://docs.google.com/spreadsheets/d/1lbnEPV4-CQUuy-w_ME88JsqlxdQ0zQIFKJ0vZbqvwBc/edit?usp=sharing)
-- [Cooperatives](https://docs.google.com/spreadsheets/d/1elgAY8Xc2p_kNHCcXKklRaldBXr2gxnDrjhyqn-3b-U/edit?usp=sharing)
-- [Manufacturers](https://docs.google.com/spreadsheets/d/1lN6Ok7iyFMuc1FKns6t6chbiS4pMNNeyIC8M7tEN6w0/edit?usp=sharing)
-- [Importers](https://docs.google.com/spreadsheets/d/1oArWTerRD6X_yAsCa8hhU5MkjUOS9xlYH-4vXyCD3d4/edit?usp=sharing)
-- [City Halls](https://docs.google.com/spreadsheets/d/1sXTpzL3KLTz9Gb6e0EbgGxZzHhX-D6snA1lIYJKaA8k/edit?usp=sharing)
+- [Lista Arguição dos Estados](https://wzhsn-my.sharepoint.com/:x:/g/personal/alexsandro_wzhsn_onmicrosoft_com/EbfvhEqhL5VMgbSfV1xBt4gB313TZriRH5eD5MkbaXaQKg?e=HWGEkN)
 
 The spreadsheets provide a detailed overview of the responses received, allowing for a more in-depth analysis of the Brazilian panorama regarding the use of software or hardware tools to recover digital data in order to produce sufficient evidence of authorship and materiality.
 
