@@ -5,11 +5,24 @@ The results of this research point to the need for greater sharing of knowledge 
 ## Perícia Forense Digital
 Digital forensics is a specialized area dedicated to the identification, preservation, collection, analysis and presentation of evidence found on electronic devices and virtual environments. This technical investigation is fundamental to solving crimes, providing support for the formation of the so-called just cause - sufficient evidence of authorship and materiality. It is essential to apply guidelines when handling storage devices to ensure the authenticity and integrity of the traces, which will be judged as evidence in the procedural phase. Using specific tools and following strict methodological protocols, experts ensure that each piece of evidence is properly documented, establishing the chain of custody and enabling its use in legal proceedings. In short, digital forensics represents the link between the technological world and the justice system, allowing digital information transformed into evidence to be used in the investigation and elucidation of crimes.
 
-## Investigation Objectives
-The main objective of this research is to verify compliance with the Reverse Logistics of electronic equipment, as established by the National Solid Waste Policy (Law No. 12,305/2010 and Decree No. 10,240/2020). In cases where there are indications of non-compliance by manufacturers, importers, distributors, and retailers, we intend to file complaints with municipal authorities, the Public Prosecutor's Office, the Brazilian Bar Association (OAB), and socio-environmental organizations. Our purpose is to ensure that all involved parties fulfill their respective socio-economic and environmental responsibilities.
+## Objectives of the work
+The general objective of this work is to analyze the application of electronic technologies in Brazilian police investigations, with a focus on digital forensics and data recovery. The research aims to map and evaluate the technological tools, both software and hardware, currently used in forensic practice for the investigation of crimes, through a survey of data on the transparency portals of Brazilian states. In addition, the study seeks to examine the effectiveness of the techniques and tools used to recover digital data, which is essential for obtaining evidence that indicates the authorship and materiality of crimes. Finally, the work aims to produce material that offers a comprehensive overview of digital forensics in Brazil, highlighting the gaps and challenges faced by professionals in the field, with the aim of providing recommendations for improving forensic practices, in order to improve the accuracy and effectiveness of criminal investigations and, consequently, strengthen the application of justice.
+The specific objectives of this work are:
+
+* To analyze the various types of technological tools, both software and hardware, used in digital forensics in the different Brazilian states, in order to map and understand the tools available and in use, as well as their specific applications in the digital data recovery process.
+
+* Identify the practices and techniques used by forensic bodies to recover digital data, with an emphasis on effectiveness and compliance with legal standards, detailing the methods used in forensic practice and assessing whether they are in line with legal and technical requirements for obtaining reliable evidence.
+
+* Verify the possibility of improving current techniques and tools based on the gaps and challenges identified in forensic practice, analyzing the deficiencies in current tools and methods and exploring opportunities to improve existing practices in digital forensics.
+
+* Compare the use of forensic technologies between different Brazilian states in order to identify regional variations and recommended practices, seeking to understand how the application of technologies and techniques varies between states and which practices are considered most effective and recommended.
+
+* Evaluate the effectiveness of digital data recovery tools and techniques in producing evidence that indicates the authorship and materiality of crimes, measuring the impact of forensic technologies in obtaining evidence that can be used in legal proceedings and how they contribute to solving criminal cases.
+
+* Collect data and feedback from professionals involved in digital forensics on the main difficulties and needs faced in practice, with the aim of obtaining direct insights from experts on the day-to-day challenges and needs for improving the tools and techniques used.
 
 ## Response Spreadsheets
-Here are the links to the spreadsheets containing the responses from the companies that were queried during the investigation:
+Here are the links to the spreadsheets containing the responses of the states that were questioned during the process of investigating forensic practices in the Brazilian states:
 
 - [Distributors](https://docs.google.com/spreadsheets/d/1_9GmCSYIBlck2VQbjIxxf8prKJAj0nqn-ThlUpODLY8/edit?usp=sharing)
 - [Merchants](https://docs.google.com/spreadsheets/d/1lbnEPV4-CQUuy-w_ME88JsqlxdQ0zQIFKJ0vZbqvwBc/edit?usp=sharing)
@@ -18,10 +31,9 @@ Here are the links to the spreadsheets containing the responses from the compani
 - [Importers](https://docs.google.com/spreadsheets/d/1oArWTerRD6X_yAsCa8hhU5MkjUOS9xlYH-4vXyCD3d4/edit?usp=sharing)
 - [City Halls](https://docs.google.com/spreadsheets/d/1sXTpzL3KLTz9Gb6e0EbgGxZzHhX-D6snA1lIYJKaA8k/edit?usp=sharing)
 
-These spreadsheets provide a detailed overview of the received responses, allowing for a more in-depth analysis of compliance or non-compliance with Reverse Logistics guidelines.
+The spreadsheets provide a detailed overview of the responses received, allowing for a more in-depth analysis of the Brazilian panorama regarding the use of software or hardware tools to recover digital data in order to produce sufficient evidence of authorship and materiality.
 
-If you have any questions or suggestions, feel free to reach out or open an issue in this repository. We appreciate your interest in promoting sustainability and environmental compliance in the disposal of electronic equipment.
-
+If you have any questions or suggestions, please feel free to contact us or open an issue in this repository. Thank you for your interest in promoting the use of technologies to produce just cause in the investigative process carried out by Brazil's judicial police and forensic sections/agencies.
 
 
 # PT-BR:
@@ -50,7 +62,7 @@ Os objetivos específicos deste trabalho são:
 * Recolher dados e feedback dos profissionais envolvidos na perícia forense digital sobre as principais dificuldades e necessidades enfrentadas na prática, visando obter insights diretos dos peritos sobre os desafios cotidianos e as necessidades para a melhoria das ferramentas e técnicas usadas.
 
 ## Planilhas de Respostas
-Aqui estão os links para as planilhas que contêm as respostas dos estados que foram arguidos durante o processo de averiguação:
+Aqui estão os links para as planilhas que contêm as respostas dos estados que foram arguidos durante o processo de averiguação das práticas forenses nos estados brasileiros:
 
 - [Distribuidores](https://docs.google.com/spreadsheets/d/1_9GmCSYIBlck2VQbjIxxf8prKJAj0nqn-ThlUpODLY8/edit?usp=sharing)
 - [Comerciantes](https://docs.google.com/spreadsheets/d/1lbnEPV4-CQUuy-w_ME88JsqlxdQ0zQIFKJ0vZbqvwBc/edit?usp=sharing)
@@ -61,4 +73,4 @@ Aqui estão os links para as planilhas que contêm as respostas dos estados que 
 
 As planilhas fornecem uma visão detalhada das respostas recebidas, permitindo uma análise mais aprofundada do panorama brasileiro quanto à utilização de ferramentas de software ou hardware para recuperação de dados digitais objetivando a produção de índicios suficientes de autoria e materialidade.
 
-Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato ou abrir uma issue neste repositório. Agradecemos pelo seu interesse na promoção da sustentabilidade e conformidade ambiental no descarte de equipamentos eletrônicos.
+Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato ou abrir uma issue neste repositório. Agradecemos pelo seu interesse na promoção do uso tecnologias para produção da justa causa no processo investigativo realizado pelas polícias judiciárias e seções/órgãos de perícia do Brasil.
